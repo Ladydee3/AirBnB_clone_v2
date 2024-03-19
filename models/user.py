@@ -1,4 +1,3 @@
-__init__.py
 #!/usr/bin/python3
 """This is the user class"""
 from sqlalchemy.ext.declarative import declarative_base
